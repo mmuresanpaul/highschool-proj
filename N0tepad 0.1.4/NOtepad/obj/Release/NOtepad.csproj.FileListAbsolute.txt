@@ -1,0 +1,137 @@
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\bin\Release\NOtepad.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\bin\Release\NOtepad.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\NOtepad\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\bin\Release\NOtepad.exe
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\bin\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\Atestat\NOtepad\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\NOtepad\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad\NOtepad\bin\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad\NOtepad\bin\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+C:\Users\Paul\Desktop\NOtepad\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\bin\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\bin\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+C:\Users\Paul\Desktop\NOtepad 0.1\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\bin\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\bin\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+C:\Users\Paul\Desktop\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+D:\Documents\NOtepad 0.1.1\NOtepad\bin\Release\NOtepad.exe.config
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.exe
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.pdb
+D:\Documents\NOtepad 0.1.1\NOtepad\bin\Release\NOtepad.exe
+D:\Documents\NOtepad 0.1.1\NOtepad\bin\Release\NOtepad.pdb
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\MainWindow.baml
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\MainWindow.g.cs
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\App.g.cs
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.g.resources
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+D:\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\Dropbox\PC\Documents\NOtepad 0.1.1\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\bin\Release\NOtepad.exe
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\bin\Release\NOtepad.pdb
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+C:\Users\Paul\Desktop\NOtepad 0.1.2\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\bin\Release\NOtepad.exe.config
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.exe
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.pdb
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\bin\Release\NOtepad.exe
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\bin\Release\NOtepad.pdb
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\MainWindow.baml
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\MainWindow.g.cs
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\App.g.cs
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.g.resources
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\bin\Release\MahApps.Metro.dll
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\bin\Release\MahApps.Metro.pdb
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\bin\Release\MahApps.Metro.xml
+C:\Users\Paul\OneDrive\NOtepad 0.1.4\NOtepad\obj\Release\App.baml
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\NOtepad.exe.config
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.exe
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.pdb
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\NOtepad.exe
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\NOtepad.pdb
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\MahApps.Metro.dll
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\MaterialDesignColors.dll
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\MaterialDesignThemes.Wpf.dll
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\System.Windows.Interactivity.dll
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\MahApps.Metro.pdb
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\bin\Release\MahApps.Metro.xml
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.csprojResolveAssemblyReference.cache
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\MainWindow.baml
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\App.baml
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\MainWindow.g.cs
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\App.g.cs
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad_MarkupCompile.cache
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.g.resources
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.Properties.Resources.resources
+F:\GHAGHAGHA\NOtepad 0.1.4\NOtepad\obj\Release\NOtepad.csproj.GenerateResource.Cache

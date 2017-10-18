@@ -1,0 +1,19 @@
+﻿<Window x:Name="window" x:Class="Alarm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       Title="Alarm made by Paul Muresan" Icon="clock.ico" Height="48" Width="359" ResizeMode="NoResize" AllowsTransparency="True" WindowStyle="none" MouseDown="Window_MouseDown">
+    <Window.Background>
+        <SolidColorBrush Opacity="0.5" Color="#FFC78D8D"/>
+    </Window.Background>
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="output" Content="00:00:00" HorizontalAlignment="Left" Height="48" Margin="10,-2,0,0" VerticalAlignment="Top" Width="144" FontSize="27" Foreground="White" RenderTransformOrigin="0.487,0.137"/>
+        <Image x:Name="exit" HorizontalAlignment="Left" Height="32" Margin="304,0,0,0" VerticalAlignment="Top" Width="40" Source="exit.png" MouseLeftButtonDown="exit_click" MouseEnter="exit_focus" MouseLeave="exit_nofocus"/>
+        <Image x:Name="play" HorizontalAlignment="Left" Height="30" Margin="154,8,0,0" VerticalAlignment="Top" Width="30" Source="play.png" MouseLeftButtonDown="Button_Click" MouseEnter="play_focus" MouseLeave="play_nofocus"/>
+        <Image x:Name="stoop" HorizontalAlignment="Left" Height="30" Margin="240,8,0,0" VerticalAlignment="Top" Width="30" Source="stop.png" MouseLeftButtonDown="Button_Click_2" MouseEnter="stop_focus" MouseLeave="stop_nofocus"/>
+        <Image x:Name="pause" HorizontalAlignment="Left" Height="30" Margin="189,8,0,0" VerticalAlignment="Top" Width="30" Source="pause.png" MouseLeftButtonDown="Button_Click_1" MouseEnter="pause_focus" MouseLeave="pause_nofocus"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\bin\Debug\cruce.exe.config
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\bin\Debug\cruce.exe
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\bin\Debug\cruce.pdb
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\cruce.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\MainWindow.baml
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\MainWindow.g.cs
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\App.g.cs
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\cruce_MarkupCompile.cache
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\cruce.g.resources
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\cruce.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\cruce.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\cruce.exe
+c:\users\paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Debug\cruce.pdb
+C:\Users\Paul\Desktop\cruce\cruce\bin\Debug\cruce.exe.config
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\cruce.exe
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\cruce.pdb
+C:\Users\Paul\Desktop\cruce\cruce\bin\Debug\cruce.exe
+C:\Users\Paul\Desktop\cruce\cruce\bin\Debug\cruce.pdb
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\cruce.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\MainWindow.baml
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\MainWindow.g.cs
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\App.g.cs
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\cruce_MarkupCompile.cache
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\cruce.g.resources
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\cruce.Properties.Resources.resources
+C:\Users\Paul\Desktop\cruce\cruce\obj\Debug\cruce.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\bin\Debug\cruce.exe.config
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\cruce.exe
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\cruce.pdb
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\bin\Debug\cruce.exe
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\bin\Debug\cruce.pdb
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\cruce.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\MainWindow.baml
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\MainWindow.g.cs
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\App.g.cs
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\cruce_MarkupCompile.cache
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\cruce.g.resources
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\cruce.Properties.Resources.resources
+C:\Users\Paul\Documents\C# Projects\cruce\cruce\obj\Debug\cruce.csproj.GenerateResource.Cache

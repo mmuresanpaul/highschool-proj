@@ -1,0 +1,14 @@
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\bin\Debug\Pseudocoder.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\bin\Debug\Pseudocoder.exe
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\bin\Debug\Pseudocoder.pdb
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\MainWindow.g.cs
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\App.g.cs
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder_MarkupCompile.cache
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder_MarkupCompile.lref
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\MainWindow.baml
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder.g.resources
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder.exe
+c:\users\paul\documents\visual studio 2015\Projects\Pseudocoder\Pseudocoder\obj\Debug\Pseudocoder.pdb

@@ -1,0 +1,14 @@
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\MainWindow.g.cs
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\App.g.cs
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame_MarkupCompile.cache
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame_MarkupCompile.lref
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\MainWindow.baml
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame.g.resources
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+c:\users\paul\documents\visual studio 2015\Projects\ChessGame\ChessGame\obj\Debug\ChessGame.pdb

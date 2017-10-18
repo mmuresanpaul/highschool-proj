@@ -1,0 +1,12 @@
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\bin\Release\cruce.exe.config
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\bin\Release\cruce.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\bin\Release\cruce.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\MainWindow.baml
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\MainWindow.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\App.g.cs
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\cruce_MarkupCompile.cache
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\cruce.g.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\cruce.Properties.Resources.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\cruce.csproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\cruce.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\cruce\cruce\obj\Release\cruce.pdb

@@ -1,0 +1,17 @@
+C:\Users\Paul\Desktop\Alarm\Alarm\bin\Release\Alarm.exe.config
+C:\Users\Paul\Desktop\Alarm\Alarm\bin\Release\Alarm.exe
+C:\Users\Paul\Desktop\Alarm\Alarm\bin\Release\Alarm.pdb
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\MainWindow.baml
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\MainWindow.g.cs
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\App.g.cs
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm_Content.g.cs
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm_MarkupCompile.cache
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm.g.resources
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm.Properties.Resources.resources
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm.exe
+C:\Users\Paul\Desktop\Alarm\Alarm\obj\Release\Alarm.pdb
+C:\Users\Paul\Documents\C#\Alarm\Alarm\bin\Release\Alarm.exe.config
+C:\Users\Paul\Documents\C#\Alarm\Alarm\obj\Release\Alarm.exe
+C:\Users\Paul\Documents\C#\Alarm\Alarm\obj\Release\Alarm.pdb

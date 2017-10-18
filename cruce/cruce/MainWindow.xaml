@@ -1,0 +1,70 @@
+﻿<Window x:Class="cruce.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Crucea lu' peste - Paul Muresan" Height="700" Width="700
+">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="688" VerticalAlignment="Top" Width="692" Source="wood.jpg" Stretch="Fill"/>
+
+        <Image x:Name="card1" HorizontalAlignment="Left" Height="139" Margin="131,476,0,0" VerticalAlignment="Top" Width="99" Source="4_bata.JPG" Stretch="Fill" MouseLeftButtonUp="card1_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="card3" HorizontalAlignment="Left" Height="139" Margin="340,476,0,0" VerticalAlignment="Top" Width="99" Source="9_verde.JPG" Stretch="Fill" MouseLeftButtonUp="card3_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="card4" HorizontalAlignment="Left" Height="139" Margin="444,476,0,0" VerticalAlignment="Top" Width="99" Source="3_bata.JPG" Stretch="Fill" MouseLeftButtonUp="card4_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="card2" HorizontalAlignment="Left" Height="139" Margin="236,476,0,0" VerticalAlignment="Top" Width="99" Source="2_verde.JPG" Stretch="Fill" MouseLeftButtonUp="card2_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="clicked2" HorizontalAlignment="Left" Height="139" Margin="236,201,0,0" VerticalAlignment="Top" Width="99" Source="4_rosu.png" Stretch="Fill">
+            <Image.Effect>
+                <DropShadowEffect Opacity="0.3"/>
+            </Image.Effect>
+
+        </Image>
+        <Image x:Name="card5" HorizontalAlignment="Left" Height="139" Margin="131,26,0,0" VerticalAlignment="Top" Width="99" Source="card-back.jpg" Stretch="Fill" MouseLeftButtonUp="card5_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="card7" HorizontalAlignment="Left" Height="139" Margin="340,26,0,0" VerticalAlignment="Top" Width="99" Source="card-back.jpg" Stretch="Fill" MouseLeftButtonUp="card7_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="card8" HorizontalAlignment="Left" Height="139" Margin="444,26,0,0" VerticalAlignment="Top" Width="99" Source="card-back.jpg" Stretch="Fill" MouseLeftButtonUp="card8_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="card6" HorizontalAlignment="Left" Height="139" Margin="236,26,0,0" VerticalAlignment="Top" Width="99" Source="card-back.jpg" Stretch="Fill" MouseLeftButtonUp="card6_click">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image x:Name="clicked1" HorizontalAlignment="Left" Height="138" Margin="335,302,0,0" VerticalAlignment="Top" Width="99" Source="2_rosu.JPG" Stretch="Fill">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+
+        </Image>
+        <Image x:Name="deck_image" HorizontalAlignment="Left" Height="139" Margin="565,229,0,0" VerticalAlignment="Top" Width="99" Source="card-back.jpg" Stretch="Fill">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <TextBox x:Name="output1" HorizontalAlignment="Left" Height="20" Margin="131,451,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="175"/>
+        <TextBox x:Name="output2" HorizontalAlignment="Left" Height="20" Margin="131,172,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="175"/>
+
+    </Grid>
+</Window>

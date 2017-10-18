@@ -1,0 +1,16 @@
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\bin\Debug\AppBlock.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\bin\Debug\AppBlock.exe
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\bin\Debug\AppBlock.pdb
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\MainWindow.g.cs
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\App.g.cs
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock_MarkupCompile.cache
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock_MarkupCompile.lref
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\MainWindow.baml
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock.g.resources
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock.csproj.GenerateResource.Cache
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock.exe
+c:\users\paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AppBlock.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AddBlockedProcessWindows.g.cs
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Debug\AddBlockedProcessWindows.baml

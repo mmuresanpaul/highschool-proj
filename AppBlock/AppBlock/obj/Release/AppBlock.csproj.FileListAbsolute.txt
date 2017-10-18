@@ -1,0 +1,15 @@
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\bin\Release\AppBlock.exe.config
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\bin\Release\AppBlock.exe
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\bin\Release\AppBlock.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AddBlockedProcessWindows.g.cs
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\MainWindow.g.cs
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\App.g.cs
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AppBlock_MarkupCompile.cache
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AppBlock_MarkupCompile.lref
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AddBlockedProcessWindows.baml
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\MainWindow.baml
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AppBlock.g.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AppBlock.Properties.Resources.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AppBlock.csproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AppBlock.exe
+C:\Users\Paul\documents\visual studio 2015\Projects\AppBlock\AppBlock\obj\Release\AppBlock.pdb
